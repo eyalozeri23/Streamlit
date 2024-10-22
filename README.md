@@ -22,7 +22,7 @@ Match Masters Analysis is a Streamlit application designed to provide insights i
 You can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/eyalozeri23/streamlit-project.git
+git clone https://github.com/eyalozeri23/Streamlit.git
 ```
 
 ### Step 2: Create a Virtual Environment
