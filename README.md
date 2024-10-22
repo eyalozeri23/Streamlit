@@ -28,13 +28,13 @@ git clone https://github.com/eyalozeri23/streamlit-project.git
 ### Step 2: Create a Virtual Environment
 
 ```bash
-python -m venv venv
+python -m venv streamlit_venv
 ```
 
 ### Step 3: Activate the Virtual Environment
 
 ```bash
-source venv/bin/activate
+source streamlit_venv/bin/activate
 ```
 
 ### Step 4: Install Required Packages
