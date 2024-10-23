@@ -48,7 +48,7 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-## Installation
+## Contributions
 
 Contributions are welcome! If you have suggestions or improvements.
 
